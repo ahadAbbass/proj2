@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif; /* Set font-family */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+    background-color: #f0f0f0; /* Set background color */
+}
+
+/* Styles for the header element */
+header {
+    background-color: #333; /* Set background color */
+    color: #fff; /* Set text color */
+    padding: 10px 20px; /* Add padding */
+    text-align: center; /* Center-align text */
+}
+
+/* Styles for the main content */
+.main-content {
+    width: 80%; /* Set width */
+    margin: 20px auto; /* Center-align and add margin */
+    background-color: #fff; /* Set background color */
+    padding: 20px; /* Add padding */
+    border-radius: 5px; /* Add border radius */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Add box shadow */
+}
+
+/* Styles for paragraph elements */
+p {
+    line-height: 1.5; /* Set line height */
+}
+
+/* Styles for links */
+a {
+    color: #007bff; /* Set link color */
+    text-decoration: none; /* Remove underline */
+}
+
+a:hover {
+    text-decoration: underline; /* Add underline on hover */
+}
